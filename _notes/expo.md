@@ -10,7 +10,11 @@
 
   expo add expo-location
   expo install @react-native-community/picker
-
-
   
+```
+
+
+## publish
+```
+  expo publish
 ```

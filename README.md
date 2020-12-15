@@ -63,7 +63,8 @@ npm i react-router-dom
 ## Hooks
 
 ## Form
-
+- Formik (Form)
+- Yup (Validation)
 
 ## Recux
 - Unit test
