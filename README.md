@@ -4,17 +4,12 @@
 
 ## IDE Setup
 VScode Extensions
+- React Native Tools
+
 - Prettier and config
 
-- Path Intellisense
+- ESLint 
 
-- Npm Intellisense
-
-
-ESLint 
-```
-
-```
 
 
 ## Language
