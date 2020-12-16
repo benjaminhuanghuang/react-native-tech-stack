@@ -26,7 +26,13 @@ VScode Extensions
 
 - 
 
-## Router
+## Platform specific coding
+
+## Native device feature
+
+## Offline Support
+
+## Navigation
 ```
 npm i react-router-dom
 ```
@@ -88,7 +94,9 @@ npm i react-router-dom
 
 
 ## UI Library
-
+- @expo/vector-icons
+- react-native-gesture-handler/Swipeable
+- 
 
 ## Firebase
 
